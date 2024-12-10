@@ -17,6 +17,10 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^2.0.0
 
+exports:
+  lib/oidc_client_singleton.dart:
+    - export 'oidc_client_singleton.dart'
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
