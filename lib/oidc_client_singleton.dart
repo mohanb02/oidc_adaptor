@@ -1,7 +1,7 @@
 import 'package:openid_client/openid_client.dart';
 import 'dart:math';
 import 'dart:html';
-import 'config.dart';
+import 'config.dart'; 
 
 class OIDCClient {
   static OIDCClient? _instance;
