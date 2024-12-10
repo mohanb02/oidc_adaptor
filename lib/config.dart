@@ -1,5 +1,5 @@
 class Config {
-  static const String clientId = 'slic_inc';
-  static const String clientSecret = 'dPgfAjGe1NxV0cFlqgsb3d6dBH485lNA';
-  static const String keycloakUrl = 'http://enow1:8080/realms/master';
+  static const String clientId = 'CLIENT_ID';
+  static const String clientSecret = 'CLIENT_SEC';
+  static const String keycloakUrl = 'KC_URL';
 }
